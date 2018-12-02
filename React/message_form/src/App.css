@@ -1,0 +1,9 @@
+.App{
+  background-color: #2E4158;
+  height: 100%;
+  width:100%;
+  position: fixed;
+  overflow: auto;
+}
+
+
