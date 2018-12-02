@@ -2,10 +2,8 @@ Important Notes:
 
 /* Make sure you are using Node.js and working on React project and try to run my code first alone*/
 
-/*Open Terminal and type in 'npm run dev' make sure that your path is in the 'React' folder for this project to run both server and client side concurrently*/
-
-
-/*if you wish to recreate it from scratch*/
+-create a react app and name it 'message_form'
+-copy contents and paste it inside your React app folder if you want to use my client side if not just make sure to read message_form.js first
 
 /*Client Side*/
 	install axios --important
@@ -19,5 +17,8 @@ Important Notes:
 	
 	read index.js line 27
 
+
+
+/*Open Terminal and type in 'npm run dev' make sure that your path is in the 'React' folder for this project to run both server and client side concurrently*/
 
 
